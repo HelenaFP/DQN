@@ -1,5 +1,5 @@
 # DQN
- Implemented a Depp Q Network to solve the cart-pole environment.
+ Implemented a Deep Q Network to solve the cart-pole environment.
 
 ---
 ### Visualizing results
