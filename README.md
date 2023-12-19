@@ -35,4 +35,4 @@ Number of frames k
 ---
 ### Code
 
-💻 [DQN](https://nbviewer.jupyter.org/github/HelenaFP/DQN/blob/main/coursework2.ipynb)<br/>
+💻 [DQN](https://github.com/HelenaFP/DQN/blob/main/coursework2.ipynb)<br/>
